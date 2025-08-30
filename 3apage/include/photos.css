@@ -1,0 +1,67 @@
+/*VPDbURL{file:///C|/Documents%20and%20Settings/Paul%20Trudeau/Desktop/backup%20this%20folder/wedweb2/Project.vpp}*/
+BODY	 {
+			Color : #F0E6F2 ;
+			Background-Color : #F0E6F2
+		}
+#divWGContent	 {
+			Width : 662px
+		}
+#divWGContent	 {
+			margin : 0 auto       ;
+			Text-Align : Center
+		}
+#divWG	 {
+			Text-Align : Center ;
+			Font-Family : Verdana, Arial, Helvetica, sans-serif ;
+			Font-Size : 11px
+		}
+#divWG img	 {
+			border : none
+		}
+#divWG table	 {
+			border : none
+		}
+#divWG a:link	 {
+			Text-Decoration : None
+		}
+#divWG a:visited	 {
+			Text-Decoration : None
+		}
+#divWG a:hover	 {
+			Color : red ;
+			Text-Decoration : Underline
+		}
+#divNav	 {
+			float : left       ;
+			margin-top : 10px       ;
+			Text-Align : Left
+		}
+#divButtons	 {
+			float : right       ;
+			margin-top : 5px       ;
+			margin-bottom : 5px       ;
+			Text-Align : Right
+		}
+#currentImageLocation	 {
+			Font-Weight : Bold
+		}
+#divButtons img	 {
+			margin : 0 3px
+		}
+#imgNext	 {
+			Margin-Right : 0px
+		}
+#divMainImg	 {
+			clear : both       ;
+			margin : 0 auto
+		}
+#divWG #mainImg	 {
+			border : 1px solid       ;
+			border-color : #aaa #666 #666 #aaa       ;
+			padding : 10px       ;
+			Background-Color : white
+		}
+#divLinkHiRes	 {
+			margin-top : 6px       ;
+			Text-Align : Left
+		}

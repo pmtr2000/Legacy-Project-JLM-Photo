@@ -1,0 +1,108 @@
+/*VPDbURL{file:///C|/Documents%20and%20Settings/Paul%20Trudeau/Desktop/backup%20this%20folder/wedweb2/Project.vpp}*/
+BODY	 {
+			Font-Size : 9pt ;
+			Color : white ;
+			Background-Color : white
+		}
+:link.pn	 {
+			padding : 1px 4px       ;
+			Font-Family : arial, helvetica, sans-serif ;
+			Font-Size : 9px ;
+			Color : #606060 ;
+			Text-Decoration : None
+		}
+:link.pn	 {
+			padding : 1px 4px       ;
+			Font-Family : arial, helvetica, sans-serif ;
+			Font-Size : 9px ;
+			Color : #606060 ;
+			Text-Decoration : None
+		}
+:visited.pn	 {
+			padding : 1px 4px       ;
+			Font-Family : arial, helvetica, sans-serif ;
+			Font-Size : 9px ;
+			Color : #606060 ;
+			Text-Decoration : None
+		}
+td.tdImg	 {
+			Width : 170px ;
+			Height : 170px
+		}
+td.tdImg	 {
+			border : 1px solid       ;
+			border-color : #aaa #666 #666 #aaa       ;
+			padding : 4px       ;
+			Text-Align : Center ;
+			Background-Color : white ;
+			Vertical-Align : Middle
+		}
+#divWG	 {
+			Text-Align : Center ;
+			Font-Family : Verdana, Arial, Helvetica, sans-serif ;
+			Font-Size : 11px
+		}
+#divWG img	 {
+			border : none
+		}
+#divWG table	 {
+			border : none
+		}
+#divWG a:link	 {
+			Text-Decoration : None
+		}
+#divWG a:visited	 {
+			Text-Decoration : None
+		}
+#divWG a:hover	 {
+			Color : red ;
+			Text-Decoration : Underline
+		}
+#tblThumbsLayout	 {
+			margin : 0 auto       ;
+			Text-Align : Left
+		}
+#tblGalleryName	 {
+			margin-top : 2px
+		}
+#currentGalleryLocation	 {
+			Font-Weight : Bold
+		}
+td#galleryNameCell	 {
+			margin : 6px 6px 0 0       ;
+			Font-Size : 18px ;
+			Color : #606060 ;
+			Font-Weight : Bold
+		}
+td#pagingCell	 {
+			white-space : nowrap       ;
+			Text-Align : Right
+		}
+#imgPrev	 {
+			margin-bottom : -5px       ;
+			Margin-Right : 3px
+		}
+#imgNext	 {
+			margin-bottom : -5px       ;
+			Margin-Left : 3px
+		}
+.currentPage	 {
+			Font-Size : 12px ;
+			Background-Color : lightyellow ;
+			Font-Weight : Bold
+		}
+.otherPage	 {
+			Font-Size : 12px
+		}
+td.tdImg img	 {
+			margin-top : 11px
+		}
+#pnCell	 {
+			Text-Align : Right
+		}
+a.pn:HOVER	 {
+			border-top : 1px solid #D9E9E4       ;
+			border-bottom : 1px solid #B4D1C8       ;
+			Color : #559933 ;
+			Background-Color : #E6F9F8
+		}
