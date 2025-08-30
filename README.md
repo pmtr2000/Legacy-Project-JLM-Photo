@@ -2,7 +2,7 @@
 
 Personal Business Website
 
-This was a first attempt at a website.  Completed in 2005, it is a functioning 4-page website that features a slideshow and a no-longer-functioning video.  It was completed with a legacy program called Visual Page, developed by Symantec.  The program was bundled with Norton Antivirus and offered a proto-WYSIWYG display of the website under construction.
+This was a first attempt at a website.  Completed in 2005, it is a functioning 4-page website that features a slideshow and a no-longer-functioning video.  It was completed with a legacy program called Visual Page, developed by Symantec.  The program was bundled with Norton Antivirus and offered a proto-WYSIWYG display of the website while under construction.
 
 Before GitHub, the files and versions were managed with another legacy program called Cute FTP and uploaded to the server. The website was then tested on several different browsers and screen sizes.  I also conducted additional file management and thumbnail creation for image files.
 
